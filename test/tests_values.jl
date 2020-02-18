@@ -1,4 +1,4 @@
-# using Random
+using Random
 Random.seed!(101)
 
 @testset "Values tests" begin
