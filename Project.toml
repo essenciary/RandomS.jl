@@ -3,6 +3,11 @@ uuid = "82f4ea5b-790e-49c7-b8d7-77161ceebb4f"
 authors = ["Adrian <e@essenciary.com>"]
 version = "0.1.0"
 
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
+TestSetExtensions = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
+
 [compat]
 julia = "1"
 
