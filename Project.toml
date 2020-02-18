@@ -1,0 +1,13 @@
+name = "RandomStuff"
+uuid = "82f4ea5b-790e-49c7-b8d7-77161ceebb4f"
+authors = ["Adrian <e@essenciary.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
